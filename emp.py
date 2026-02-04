@@ -12,7 +12,7 @@
 # </think>```python
 # Employee Management System (EMS)
 
-# Global dictionary to store employee data
+# Global dictionary to store employee dat
 employees = {
     101: {'name': 'Satya', 'age': 27, 'department': 'HR', 'salary': 50000}
 }
@@ -118,4 +118,5 @@ def search_employee():
 
 # Run the main menu
 if __name__ == "__main__":
+
     main_menu()
